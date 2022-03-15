@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/navedrahim/IDme-code-exercise/issues"
   },
-  "homepage": "https://github.com/navedrahim/IDme-code-exercise#readme",
-  "dependencies": {
-    "node": "^17.7.1"
-  }
+  "homepage": "https://github.com/navedrahim/IDme-code-exercise#readme"
 }
